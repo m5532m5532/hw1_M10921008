@@ -11,3 +11,6 @@
 ## 資料集
 * 紅酒資料集:
 > https://archive.ics.uci.edu/ml/datasets/wine+quality
+## 說明:
+* [程式碼](https://github.com/m5532m5532/hw1_M10921008/tree/main/code)
+* [測試集結果.csv](https://github.com/m5532m5532/hw1_M10921008/tree/main/output)
